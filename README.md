@@ -6,6 +6,7 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/deepak-251/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/deepak-251/DSA/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/deepak-251/DSA/tree/master/0242-valid-anagram) |
 | [0709-to-lower-case](https://github.com/deepak-251/DSA/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/deepak-251/DSA/tree/master/0796-rotate-string) |
 ## Two Pointers
@@ -21,4 +22,9 @@
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/deepak-251/DSA/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/deepak-251/DSA/tree/master/0242-valid-anagram) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/deepak-251/DSA/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
