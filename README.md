@@ -11,6 +11,7 @@
 | [0242-valid-anagram](https://github.com/deepak-251/DSA/tree/master/0242-valid-anagram) |
 | [0709-to-lower-case](https://github.com/deepak-251/DSA/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/deepak-251/DSA/tree/master/0796-rotate-string) |
+| [1903-largest-odd-number-in-string](https://github.com/deepak-251/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -38,4 +39,12 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/deepak-251/DSA/tree/master/0014-longest-common-prefix) |
+## Math
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/deepak-251/DSA/tree/master/1903-largest-odd-number-in-string) |
+## Greedy
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/deepak-251/DSA/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
