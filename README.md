@@ -40,6 +40,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/deepak-251/DSA/tree/master/0014-longest-common-prefix) |
 | [0268-missing-number](https://github.com/deepak-251/DSA/tree/master/0268-missing-number) |
+| [0485-max-consecutive-ones](https://github.com/deepak-251/DSA/tree/master/0485-max-consecutive-ones) |
 ## Trie
 |  |
 | ------- |
