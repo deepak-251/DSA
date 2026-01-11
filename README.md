@@ -19,6 +19,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/deepak-251/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/deepak-251/DSA/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/deepak-251/DSA/tree/master/0151-reverse-words-in-a-string) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/deepak-251/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## String Matching
 |  |
 | ------- |
@@ -45,6 +46,7 @@
 | [0136-single-number](https://github.com/deepak-251/DSA/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/deepak-251/DSA/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/deepak-251/DSA/tree/master/0485-max-consecutive-ones) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/deepak-251/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Trie
 |  |
 | ------- |
@@ -68,4 +70,8 @@
 | ------- |
 | [0136-single-number](https://github.com/deepak-251/DSA/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/deepak-251/DSA/tree/master/0268-missing-number) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/deepak-251/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
