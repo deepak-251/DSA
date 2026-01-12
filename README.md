@@ -42,6 +42,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/deepak-251/DSA/tree/master/0014-longest-common-prefix) |
+| [0048-rotate-image](https://github.com/deepak-251/DSA/tree/master/0048-rotate-image) |
 | [0075-sort-colors](https://github.com/deepak-251/DSA/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/deepak-251/DSA/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/deepak-251/DSA/tree/master/0268-missing-number) |
@@ -55,6 +56,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/deepak-251/DSA/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/deepak-251/DSA/tree/master/0048-rotate-image) |
 | [0268-missing-number](https://github.com/deepak-251/DSA/tree/master/0268-missing-number) |
 | [1903-largest-odd-number-in-string](https://github.com/deepak-251/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Greedy
@@ -74,4 +76,8 @@
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/deepak-251/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/deepak-251/DSA/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
