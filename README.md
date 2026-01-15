@@ -61,6 +61,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/deepak-251/DSA/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/deepak-251/DSA/tree/master/0048-rotate-image) |
+| [0231-power-of-two](https://github.com/deepak-251/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/deepak-251/DSA/tree/master/0268-missing-number) |
 | [1903-largest-odd-number-in-string](https://github.com/deepak-251/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Greedy
@@ -76,6 +77,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/deepak-251/DSA/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/deepak-251/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/deepak-251/DSA/tree/master/0268-missing-number) |
 ## Simulation
 |  |
@@ -85,4 +87,8 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/deepak-251/DSA/tree/master/0048-rotate-image) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/deepak-251/DSA/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
