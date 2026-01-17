@@ -52,6 +52,7 @@
 | [0485-max-consecutive-ones](https://github.com/deepak-251/DSA/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/deepak-251/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/deepak-251/DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [1539-kth-missing-positive-number](https://github.com/deepak-251/DSA/tree/master/1539-kth-missing-positive-number) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/deepak-251/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Trie
 |  |
@@ -75,6 +76,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/deepak-251/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/deepak-251/DSA/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/deepak-251/DSA/tree/master/0540-single-element-in-a-sorted-array) |
+| [1539-kth-missing-positive-number](https://github.com/deepak-251/DSA/tree/master/1539-kth-missing-positive-number) |
 ## Bit Manipulation
 |  |
 | ------- |
