@@ -12,6 +12,7 @@
 | [0242-valid-anagram](https://github.com/deepak-251/DSA/tree/master/0242-valid-anagram) |
 | [0709-to-lower-case](https://github.com/deepak-251/DSA/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/deepak-251/DSA/tree/master/0796-rotate-string) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/deepak-251/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/deepak-251/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Two Pointers
 |  |
@@ -95,4 +96,8 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/deepak-251/DSA/tree/master/0231-power-of-two) |
+## Stack
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/deepak-251/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
